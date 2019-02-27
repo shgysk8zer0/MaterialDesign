@@ -1,0 +1,27 @@
+{
+  "name": "material",
+  "version": "1.0.0",
+  "description": "3600+ Material Design Icons from the Community",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shgysk8zer0/material.git"
+  },
+  "keywords": [
+    "svg",
+    "material",
+    "icons"
+  ],
+  "author": "multiple",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shgysk8zer0/material/issues"
+  },
+  "homepage": "https://materialdesignicons.com/",
+  "devDependencies": {
+    "svg-sprite-generator": "0.0.7",
+    "svgo": "^1.2.0"
+  }
+}
